@@ -1,11 +1,11 @@
-![profile-banner](https://github.com/cyb3ritic/cyb3ritic/blob/main/images/profile_banner.jpg)
+![profile-banner](images/profile_banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Samip Aanand Shah</h1>
 <h3 align="center">A passionate Ethical Hacking and Penetration Testing enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyb3ritic&label=Profile%20views&color=0e75b6&style=flat" alt="cyb3ritic" /> </p>
 
-<img align="right" width="40%" alt="green-neon-gif" src="https://github.com/cyb3ritic/cyb3ritic/blob/main/images/green-static-background-hacking-noen.gif">
+<img align="right" width="40%" alt="green-neon-gif" src="images/green-static-background-hacking-noen.gif">
 
 - 🌱 I’m currently learning **web exploitation using Burpsuite**
 
