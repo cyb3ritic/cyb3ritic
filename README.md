@@ -38,7 +38,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/samip-shah-835806218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samip-shah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cyb3ritic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samip-shah" height="30" width="40" /></a>
 <a href="https://fb.com/404samip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="404samip" height="30" width="40" /></a>
 <a href="https://instagram.com/404samip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="404samip" height="30" width="40" /></a>
 </p>
