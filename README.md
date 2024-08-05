@@ -1,4 +1,4 @@
-![profile-banner](images/profile_banner.jpg)
+![profile-banner](images/profile_banner.png)
 
 <h1 align="center">Hi 👋, I'm Samip Aanand Shah</h1>
 <h3 align="center">A passionate Ethical Hacking and Penetration Testing enthusiast.</h3>
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [samipshah.com.np](https://github.com/cyb3ritic)
 
-- 📝 I regularly write articles on [samipshah.com.np](https://samipshah.com.np)
+- 📝 I regularly write articles on [samipshah.com.np](https://cyb3riticblogs.pages.dev)
 
 - 💬 Ask me about **Web security, Python, Linux, Pentesting**
 
