@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [samipshah.com.np](https://github.com/cyb3ritic)
 
-- 📝 I regularly write articles on [samipshah.com.np](https://cyb3riticblogs.pages.dev)
+- 📝 I regularly write articles on [cyb3riticblogs.pages.dev](https://cyb3riticblogs.pages.dev)
 
 - 💬 Ask me about **Web security, Python, Linux, Pentesting**
 
