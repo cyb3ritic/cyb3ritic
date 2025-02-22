@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Python projects related to Cyber Security**
 
-- 👨‍💻 All of my projects are available at [samipshah.com.np](https://github.com/cyb3ritic)
+- 👨‍💻 All of my projects are available at [github](https://github.com/cyb3ritic?tab=repositories)
 
 - 📝 I regularly write articles on [cyb3riticblogs.pages.dev](https://cyb3riticblogs.pages.dev)
 
