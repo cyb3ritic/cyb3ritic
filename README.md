@@ -15,13 +15,13 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/cyb3ritic?tab=repositories)
 
-- 📝 I regularly write articles on [cyb3riticblogs.pages.dev](https://cyb3riticblogs.pages.dev)
+- 📄 Know about my experiences [samipshah.com.np](https://samipshah.com.np)
+
+- 📝 I regularly write articles on [blog.samipshah.com.np](https://blog.samipshah.com.np)
 
 - 💬 Ask me about **Web security, Python, Linux, Pentesting**
 
 - 📫 How to reach me **cyb3ritic@gmail.com**
-
-- 📄 Know about my experiences [samipshah.com.np/resume/cv](https://samipshah.com.np/resume/cv)
 
 - ⚡ Fun fact **I am really into playing Chess.**
 
