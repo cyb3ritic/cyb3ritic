@@ -32,16 +32,15 @@ I'm passionate about **cybersecurity** and love finding vulnerabilities to help 
 - 🎮 I approach hacking like a puzzle game
 - 🏁 Started with curiosity about "how things work"
 - 🛡️ I only hack with permission (ethical hacking)
-- ⚡ Chess helps me think several moves ahead
 
 </td>
 <td width="40%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+<img src="images/green-static-background-hacking-noen.gif" width="100%"/>
 
 **📡 Quick Stats:**
 - 🌍 Based in Nepal
-- 💻 5+ years in cybersecurity
+- 💻 2+ years in cybersecurity
 - 🐍 Python automation expert
 - 🔒 Web security specialist
 - ♟️ Chess enthusiast
@@ -67,6 +66,13 @@ I'm passionate about **cybersecurity** and love finding vulnerabilities to help 
 ![Burp Suite](https://img.shields.io/badge/🕷️_Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/🦈_Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/🗺️_Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/💀_Metasploit-FF073A?style=for-the-badge&logo=metasploit&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/🔓_John_the_Ripper-FF6B35?style=for-the-badge&logo=hackaday&logoColor=white)
+![Hashcat](https://img.shields.io/badge/🐱_Hashcat-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Hydra](https://img.shields.io/badge/🐍_Hydra-00CED1?style=for-the-badge&logo=python&logoColor=white)
+![FFUF](https://img.shields.io/badge/🚀_FFUF-FF073A?style=for-the-badge&logo=go&logoColor=white)
+![SQLMap](https://img.shields.io/badge/🧬_SQLMap-DAA520?style=for-the-badge&logo=mysql&logoColor=black)
+![SearchSploit](https://img.shields.io/badge/💣_SearchSploit-DA70D6?style=for-the-badge&logo=exploitdb&logoColor=white)
 
 </div>
 
@@ -75,7 +81,7 @@ I'm passionate about **cybersecurity** and love finding vulnerabilities to help 
 
 ![Python](https://img.shields.io/badge/🐍_Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/⚡_JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/🔧_C_Language-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/🐚_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PHP](https://img.shields.io/badge/🌐_PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
@@ -86,24 +92,39 @@ I'm passionate about **cybersecurity** and love finding vulnerabilities to help 
 ![Linux](https://img.shields.io/badge/🐧_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/💾_MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/📂_Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/🔌_Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Docker](https://img.shields.io/badge/🐳_Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
+
+### 🧑‍💻 **CTF Platforms & Communities**
+<div align="center">
+
+![Try Hack Me](https://img.shields.io/badge/🔐_Try_Hack_Me-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![HTB](https://img.shields.io/badge/💻_Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![CTFtime](https://img.shields.io/badge/🎯_CTF_time-007ACC?style=for-the-badge&logo=ctftime&logoColor=white)
+![Web Security Academy](https://img.shields.io/badge/🧪_Web_Security_Academy-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+
+</div>
 ---
 
 <div align="center">
 
-## 『 📊 GITHUB WARFARE STATISTICS 📊 』
+## 『 📊 CYBER WARFARE STATISTICS 📊 』
 *REAL-TIME BATTLEFIELD ANALYTICS*
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cyb3ritic&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=FF073A&text_color=00FF41&border_radius=10"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cyb3ritic&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00FF41&ring=FF073A&fire=00FF41&currStreakLabel=00FF41&border_radius=10"/>
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyb3ritic&theme=radical"/>
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyb3ritic&theme=radical&utc_offset=5.5"/>
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyb3ritic&theme=radical"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3ritic&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&border_radius=10"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyb3ritic&theme=github_dark&border_radius=10"/>
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyb3ritic&theme=radical"/>
 
-### ⚡ GITHUB ACTIVITY HEATMAP
+
+
+-------------
+
+### ⚡ EXPLOIT DEVELOPMENT HEATMAP
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cyb3ritic&bg_color=000000&color=00FF41&line=FF073A&point=FFFFFF&area=true&hide_border=true&custom_title=HACKING%20ACTIVITY%20MATRIX)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
@@ -173,7 +194,7 @@ I write blogs and guides to help others learn cybersecurity. Because a safer int
 
 ### 📝 **Blog**
 [![Blog](https://img.shields.io/badge/Read_My_Blog-00FF41?style=for-the-badge&logo=blogger&logoColor=black)](https://blog.samipshah.com.np)
-*Security tips & tutorials*
+*Writeups & tutorials*
 
 </td>
 <td align="center" width="25%">
