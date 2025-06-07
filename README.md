@@ -193,7 +193,7 @@ I write blogs and guides to help others learn cybersecurity. Because a safer int
 <td align="center" width="25%">
 
 ### 📝 **Blog**
-[![Blog](https://img.shields.io/badge/Read_My_Blog-00FF41?style=for-the-badge&logo=blogger&logoColor=black)](https://blog.samipshah.com.np)
+[![Blog](https://img.shields.io/badge/Read_My_Blog-007F26?style=for-the-badge&logo=blogger&logoColor=black)](https://blog.samipshah.com.np)
 *Writeups & tutorials*
 
 </td>
@@ -234,7 +234,7 @@ I write blogs and guides to help others learn cybersecurity. Because a safer int
 
 ### 🔥 **CURRENT STATUS: ONLINE & READY** 🔥
 
-![Profile Views](https://komarev.com/ghpvc/?username=cyb3ritic&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=cyb3ritic&color=007F26&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" />
 
