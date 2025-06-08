@@ -91,6 +91,9 @@ divider line
 ![JavaScript](https://img.shields.io/badge/⚡_JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/🐚_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PHP](https://img.shields.io/badge/🌐_PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PowerShell](https://img.shields.io/badge/🧩_PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/🧮_SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 </div>
 
@@ -100,7 +103,12 @@ divider line
 ![Linux](https://img.shields.io/badge/🐧_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/💾_MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/📂_Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VMware](https://img.shields.io/badge/🖥️_VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Docker](https://img.shields.io/badge/🐳_Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/📦_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![WSL](https://img.shields.io/badge/🪟_WSL-2C4E80?style=for-the-badge&logo=windows&logoColor=white)
+
+
 
 </div>
 
@@ -112,6 +120,11 @@ divider line
 ![HTB](https://img.shields.io/badge/💻_Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![CTFtime](https://img.shields.io/badge/🎯_CTF_time-007ACC?style=for-the-badge&logo=ctftime&logoColor=white)
 ![Web Security Academy](https://img.shields.io/badge/🧪_Web_Security_Academy-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![VulnHub](https://img.shields.io/badge/💣_VulnHub-222222?style=for-the-badge&logo=vercel&logoColor=white)
+![PentesterLab](https://img.shields.io/badge/🧪_PentesterLab-E70B0B?style=for-the-badge&logo=flask&logoColor=white)
+![OverTheWire](https://img.shields.io/badge/🕹️_OverTheWire-000000?style=for-the-badge&logo=gnu&logoColor=white)
+![Root-Me](https://img.shields.io/badge/🧠_Root--Me-B80F0A?style=for-the-badge&logo=gnometerminal&logoColor=white)
+
 
 
 </div>
@@ -130,7 +143,7 @@ divider line
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyb3ritic&theme=radical&utc_offset=5.5"/>
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyb3ritic&theme=radical"/>
 
-<img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyb3ritic&theme=radical"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyb3ritic&theme=radical"/>
 
 
 
