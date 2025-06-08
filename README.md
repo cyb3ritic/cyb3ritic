@@ -1,18 +1,34 @@
 <div align="center">
 
-# 🔥 SAMIP AANAND SHAH 🔥
-### Elite Ethical Hacker | Cybersecurity Specialist | Python Developer
+<!-- Minimal Hacker Themed Header -->
+<h1 style="color:#39ff14; font-family:'Fira Mono', monospace; font-weight:700; letter-spacing:2px; text-shadow:0 0 8px #39ff14;">
+CYB3RITIC
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🔒+ETHICAL+HACKER;🐍+PYTHON+SECURITY+EXPERT;🎯+PENETRATION+TESTER;♟️+CHESS+STRATEGIST;🏆+OSCP+CANDIDATE" alt="Typing SVG" />
+<h3 style="color:#00ffe7; font-family:'Fira Mono', monospace; font-weight:400; margin-bottom:1rem; text-shadow:0 0 4px #00ffe7;">
+Pentesting | Network Engineering | Ethical Hacking 
+</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling" />
+<!-- Typing effect with minimal roles -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&weight=600&size=20&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=600&height=40&lines=Hacker+Mindset;Python+Automation;Web+Security;OSCP+in+Progress" alt="Typing SVG" />
+
+<!-- Minimal status badges -->
+<p>
+  <a href="https://www.hackthebox.com/profile/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/HackTheBox-Active-22272e?style=flat-square&logo=hack-the-box&logoColor=39ff14&labelColor=181a1b" alt="Hack The Box" />
+  </a>
+  <a href="https://tryhackme.com/p/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-Active-22272e?style=flat-square&logo=tryhackme&logoColor=00ffe7&labelColor=181a1b" alt="TryHackMe" />
+  </a>
+</p>
 
 </div>
+
 
 <!--
 divider line
 -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<hr style="border: 0; height: 1px; background: linear-gradient(90deg,#39ff14,#00ffe7,#181a1b,#39ff14); margin: 24px 0;" />
 
 ## 🎯 **WHO AM I?**
 
@@ -70,62 +86,56 @@ divider line
 ### 🔐 **Security & Hacking Tools**
 <div align="center">
 
-![Kali Linux](https://img.shields.io/badge/🐧_Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/🕷️_Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/🦈_Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/🗺️_Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/💀_Metasploit-FF073A?style=for-the-badge&logo=metasploit&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/🔓_John_the_Ripper-FF6B35?style=for-the-badge&logo=hackaday&logoColor=white)
-![Hashcat](https://img.shields.io/badge/🐱_Hashcat-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Hydra](https://img.shields.io/badge/🐍_Hydra-00CED1?style=for-the-badge&logo=python&logoColor=white)
-![FFUF](https://img.shields.io/badge/🚀_FFUF-FF073A?style=for-the-badge&logo=go&logoColor=white)
-![SQLMap](https://img.shields.io/badge/🧬_SQLMap-DAA520?style=for-the-badge&logo=mysql&logoColor=black)
-![SearchSploit](https://img.shields.io/badge/💣_SearchSploit-DA70D6?style=for-the-badge&logo=exploitdb&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-2C2D72?style=flat-square&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-E16428?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-5C6BC0?style=flat-square&logo=hackaday&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-FFB74D?style=flat-square&logo=hackthebox&logoColor=black)
+![Hydra](https://img.shields.io/badge/Hydra-26A69A?style=flat-square&logo=python&logoColor=white)
+![FFUF](https://img.shields.io/badge/FFUF-7986CB?style=flat-square&logo=go&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-A1887F?style=flat-square&logo=mysql&logoColor=white)
+![SearchSploit](https://img.shields.io/badge/SearchSploit-9575CD?style=flat-square&logo=exploitdb&logoColor=white)
 
 </div>
 
 ### 💻 **Programming Languages**
 <div align="center">
 
-![Python](https://img.shields.io/badge/🐍_Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/⚡_JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/🐚_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PHP](https://img.shields.io/badge/🌐_PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PowerShell](https://img.shields.io/badge/🧩_PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![SQL](https://img.shields.io/badge/🧮_SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
 ### 🗄️ **Databases & Systems**
 <div align="center">
 
-![Linux](https://img.shields.io/badge/🐧_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/💾_MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/📂_Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VMware](https://img.shields.io/badge/🖥️_VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Docker](https://img.shields.io/badge/🐳_Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/📦_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![WSL](https://img.shields.io/badge/🪟_WSL-2C4E80?style=for-the-badge&logo=windows&logoColor=white)
-
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 </div>
-
 
 ### 🧑‍💻 **CTF Platforms & Communities**
 <div align="center">
 
-![Try Hack Me](https://img.shields.io/badge/🔐_Try_Hack_Me-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![HTB](https://img.shields.io/badge/💻_Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![CTFtime](https://img.shields.io/badge/🎯_CTF_time-007ACC?style=for-the-badge&logo=ctftime&logoColor=white)
-![Web Security Academy](https://img.shields.io/badge/🧪_Web_Security_Academy-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![VulnHub](https://img.shields.io/badge/💣_VulnHub-222222?style=for-the-badge&logo=vercel&logoColor=white)
-![PentesterLab](https://img.shields.io/badge/🧪_PentesterLab-E70B0B?style=for-the-badge&logo=flask&logoColor=white)
-![OverTheWire](https://img.shields.io/badge/🕹️_OverTheWire-000000?style=for-the-badge&logo=gnu&logoColor=white)
-![Root-Me](https://img.shields.io/badge/🧠_Root--Me-B80F0A?style=for-the-badge&logo=gnometerminal&logoColor=white)
-
-
+![Try Hack Me](https://img.shields.io/badge/Try_Hack_Me-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+![HTB](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
+![CTFtime](https://img.shields.io/badge/CTFtime-007ACC?style=flat-square&logo=ctftime&logoColor=white)
+![Web Security Academy](https://img.shields.io/badge/Web_Security_Academy-E16428?style=flat-square&logo=burpsuite&logoColor=white)
+![VulnHub](https://img.shields.io/badge/VulnHub-424242?style=flat-square&logo=vercel&logoColor=white)
+![PentesterLab](https://img.shields.io/badge/PentesterLab-D32F2F?style=flat-square&logo=flask&logoColor=white)
+![OverTheWire](https://img.shields.io/badge/OverTheWire-333333?style=flat-square&logo=gnu&logoColor=white)
+![Root-Me](https://img.shields.io/badge/Root--Me-C62828?style=flat-square&logo=gnometerminal&logoColor=white)
 
 </div>
 
@@ -218,34 +228,40 @@ divider line
 
 *Ready to secure the digital world together?*
 
+<div align="center">
+
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 20px;">
 
 ### 🌐 **Portfolio**
-[![Portfolio](https://img.shields.io/badge/Visit_My_Site-FF073A?style=for-the-badge&logo=firefox&logoColor=white)](https://samipshah.com.np)
-*See my projects & experience*
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-2E3440?style=flat-square&logo=firefox&logoColor=white)](https://samipshah.com.np)
+
+*Explore my projects & experience*
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 20px;">
 
 ### 📝 **Blog**
-[![Blog](https://img.shields.io/badge/Read_My_Blog-007F26?style=for-the-badge&logo=blogger&logoColor=black)](https://blog.samipshah.com.np)
-*Writeups & tutorials*
+[![Blog](https://img.shields.io/badge/Read_Articles-4C566A?style=flat-square&logo=hashnode&logoColor=white)](https://blog.samipshah.com.np)
+
+*Security writeups & tutorials*
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 20px;">
 
 ### 💼 **LinkedIn**
-[![LinkedIn](https://img.shields.io/badge/Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyb3ritic)
-*Let's network professionally*
+[![LinkedIn](https://img.shields.io/badge/Connect_Professionally-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyb3ritic)
+
+*Let's build our network*
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 20px;">
 
-### 📧 **Email**
-[![Email](https://img.shields.io/badge/Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyb3ritic@gmail.com)
-*Direct communication*
+### 📧 **Contact**
+[![Email](https://img.shields.io/badge/Send_Message-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cyb3ritic@gmail.com)
+
+*Get in touch directly*
 
 </td>
 </tr>
@@ -273,12 +289,18 @@ divider line
 
 <div align="center">
 
-### 🔥 **CURRENT STATUS: ONLINE & READY** 🔥
+<h3 style="color:#39ff14; font-family:'Fira Mono', monospace; font-weight:600; letter-spacing:1px; text-shadow:0 0 6pxrgb(15, 86, 3);">
+CURRENT STATUS: <span style="color:#00ffe7;">ONLINE & READY</span>
+</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=cyb3ritic&color=007F26&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=cyb3ritic&color=39ff14&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" />
+<!-- Minimal hacker-themed footer -->
+<hr style="border: 0; height: 1px; background: linear-gradient(90deg,#39ff14,#00ffe7,#181a1b,#39ff14); margin: 24px 0;" />
 
-**Thanks for visiting my digital space! Feel free to explore my repositories and get in touch if you want to collaborate on making the internet safer! 🤝**
+<p style="color:#00ffe7; font-family:'Fira Mono', monospace; font-size:1.1em;">
+<strong>Thanks for visiting my digital space.<br>
+Explore my repositories and connect if you want to collaborate on making the internet safer! <span style="color:#39ff14;">Stay Secure. Keep Hacking. Stay Curious.</span></strong>
+</p>
 
 </div>
