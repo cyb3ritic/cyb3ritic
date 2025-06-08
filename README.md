@@ -107,6 +107,7 @@ I'm passionate about **cybersecurity** and love finding vulnerabilities to help 
 
 
 </div>
+
 ---
 
 <div align="center">
@@ -114,11 +115,11 @@ I'm passionate about **cybersecurity** and love finding vulnerabilities to help 
 ## 『 📊 CYBER WARFARE STATISTICS 📊 』
 *REAL-TIME BATTLEFIELD ANALYTICS*
 
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyb3ritic&theme=radical"/>
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyb3ritic&theme=radical&utc_offset=5.5"/>
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyb3ritic&theme=radical"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyb3ritic&theme=radical"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyb3ritic&theme=radical&utc_offset=5.5"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyb3ritic&theme=radical"/>
 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyb3ritic&theme=radical"/>
+<img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyb3ritic&theme=radical"/>
 
 
 
