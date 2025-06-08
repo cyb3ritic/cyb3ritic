@@ -9,7 +9,10 @@
 
 </div>
 
----
+<!--
+divider line
+-->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🎯 **WHO AM I?**
 
@@ -49,7 +52,12 @@ I'm passionate about **cybersecurity** and love finding vulnerabilities to help 
 </tr>
 </table>
 
----
+
+<!--
+divider line
+-->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 
 <div align="center">
 
@@ -108,7 +116,10 @@ I'm passionate about **cybersecurity** and love finding vulnerabilities to help 
 
 </div>
 
----
+<!--
+divider line
+-->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
@@ -123,14 +134,20 @@ I'm passionate about **cybersecurity** and love finding vulnerabilities to help 
 
 
 
--------------
+<!--
+divider line
+-->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### ⚡ EXPLOIT DEVELOPMENT HEATMAP
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cyb3ritic&bg_color=000000&color=00FF41&line=FF073A&point=FFFFFF&area=true&hide_border=true&custom_title=HACKING%20ACTIVITY%20MATRIX)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
+<!--
+divider line
+-->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
@@ -141,7 +158,10 @@ I'm passionate about **cybersecurity** and love finding vulnerabilities to help 
 
 </div>
 
----
+<!--
+divider line
+-->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🎮 **WHAT I DO (EXPLAINED SIMPLY)**
 
@@ -174,7 +194,10 @@ I write blogs and guides to help others learn cybersecurity. Because a safer int
 </tr>
 </table>
 
----
+<!--
+divider line
+-->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
@@ -217,7 +240,10 @@ I write blogs and guides to help others learn cybersecurity. Because a safer int
 
 </div>
 
----
+<!--
+divider line
+-->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
@@ -225,11 +251,12 @@ I write blogs and guides to help others learn cybersecurity. Because a safer int
 
 > *"Making the internet a safer place, one vulnerability at a time"*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=🛡️+Protecting+digital+assets;🔍+Finding+security+weaknesses;🚀+Building+secure+applications;♟️+Thinking+strategically;💡+Sharing+knowledge+with+community" />
-
 </div>
 
----
+<!--
+divider line
+-->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
