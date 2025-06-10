@@ -28,7 +28,7 @@ Pentesting | Network Engineering | Ethical Hacking
 <!--
 divider line
 -->
-<hr style="border: 0; height: 1px; background: linear-gradient(90deg,#39ff14,#00ffe7,#181a1b,#39ff14); margin: 24px 0;" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🎯 **WHO AM I?**
 
