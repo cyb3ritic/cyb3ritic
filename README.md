@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Hack%20The%20Box-Active-00FF41?style=for-the-badge&logo=hackthebox&logoColor=00FF41&labelColor=000000"/>
 <img src="https://img.shields.io/badge/TryHackMe-Active-00FF41?style=for-the-badge&logo=tryhackme&logoColor=00FF41&labelColor=000000"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-00FF41?style=for-the-badge&logo=statuspage&logoColor=00FF41&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Based%20in-Nepal%20🇳🇵-00FF41?style=for-the-badge&logo=googlemaps&logoColor=00FF41&labelColor=000000"/>
+
 
 </div>
 
