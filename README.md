@@ -113,7 +113,7 @@ ethics: I only test what I have permission to test.
 
 <br>
 
-## `$ ls pinned_writeups/`
+<!-- ## `$ ls pinned_writeups/` -->
 
 <!--
   TODO (Samip): Swap these placeholder rows for your 3-4 best HTB/THM writeups
@@ -122,19 +122,16 @@ ethics: I only test what I have permission to test.
   actually click through.
 -->
 
-| Project | What it does |
+<!-- | Project | What it does |
 |---|---|
 | `[Your best writeup/tool #1]` | One punchy sentence on the vuln class or tool purpose |
 | `[Your best writeup/tool #2]` | One punchy sentence on the vuln class or tool purpose |
 | `[Your best writeup/tool #3]` | One punchy sentence on the vuln class or tool purpose |
 
-<br>
+<br> -->
 
 ## `$ ./stats.sh --verbose`
 
-<p align="center">
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=cyb3ritic&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&border=00FF41&hide_border=false"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyb3ritic&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="98%"/>
